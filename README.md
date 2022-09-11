@@ -7,6 +7,5 @@
 ### In Planning: 
 * AoC 2022 
   * I may even upload older AoC challenges
-  
 * Google Code Jam
 
