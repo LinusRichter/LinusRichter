@@ -9,7 +9,7 @@
 ### In Planning: 
 * AoC 2022 
   * I may even upload older AoC challenges
-  * [Advent of Code](https://adventofcode.com/)
+  * [Advent of Code](https://adventofcode.com/)  
   ![aocStars](https://github.com/LinusRichter/LinusRichter/blob/main/AoCStars15.PNG)
 * Google Code Jam
 
