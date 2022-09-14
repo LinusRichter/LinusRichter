@@ -11,5 +11,5 @@
   * I may even upload older AoC challenges
   * [Advent of Code](https://adventofcode.com/)  
   ![aocStars](https://github.com/LinusRichter/LinusRichter/blob/main/AoCStars15.PNG)
-* Google Code Jam
+* other coding-challenges
 
