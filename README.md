@@ -12,4 +12,6 @@
   * [Advent of Code](https://adventofcode.com/)  
   ![aocStars](https://github.com/LinusRichter/LinusRichter/blob/main/AoCStars15.PNG)
 * other coding-challenges
+* I am trying to document my progress and what resources I use to get better
+* E.g. [Coding Bat](https://codingbat.com/) -  some very easy challenges but the hard ones took me a few minutes to complete
 
