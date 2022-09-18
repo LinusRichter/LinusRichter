@@ -15,5 +15,5 @@
 
 ### My Rescources
 * [Coding Bat](https://codingbat.com/) -  some very easy challenges but the hard ones took me a few minutes to complete
-* [Advent of Code](https://adventofcode.com/) 
+* [Advent of Code](https://adventofcode.com/)   
 ![aocStars](https://github.com/LinusRichter/LinusRichter/blob/main/AoCStars15.PNG)
